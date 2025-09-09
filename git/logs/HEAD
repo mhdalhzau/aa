@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 9667683b21932eac6e6ae685027f3e42885e0952 a a <47399556-sterzoops5@users.noreply.replit.com> 1757417033 +0000	branch: Created from origin/main
+9667683b21932eac6e6ae685027f3e42885e0952 9667683b21932eac6e6ae685027f3e42885e0952 a a <47399556-sterzoops5@users.noreply.replit.com> 1757417033 +0000	checkout: moving from main to main
+9667683b21932eac6e6ae685027f3e42885e0952 1170995d5ba32f9149ba5640ae1e3501f2cc7be9 sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757417188 +0000	commit: Add features for managing product data and financial records
+1170995d5ba32f9149ba5640ae1e3501f2cc7be9 31ac25f276affc4dfc843166d8ac040efb21818c sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757417225 +0000	commit: Update cash flow settings for date input
+31ac25f276affc4dfc843166d8ac040efb21818c df4c98d5c086f56484a8cd5e5227fb9716b15142 sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757417558 +0000	commit: Add functionality to create and print customer receipts
+df4c98d5c086f56484a8cd5e5227fb9716b15142 e6ee5bf7b23ec2d5c13971b8e1d6045b8ce09c74 sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757417623 +0000	commit: Add capability to create receipts
+e6ee5bf7b23ec2d5c13971b8e1d6045b8ce09c74 a4a32ee7daae6cc95ccbd8374aeb31ad06ca0b38 sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757426416 +0000	commit: Improve login process by correctly handling API responses
+a4a32ee7daae6cc95ccbd8374aeb31ad06ca0b38 7290ef721b9097ab3ce04ae75524c897d6a4f155 sterzoops5 <47399556-sterzoops5@users.noreply.replit.com> 1757426965 +0000	commit: Enhance cash flow management and add product and customer functionalities
